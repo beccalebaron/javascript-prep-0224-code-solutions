@@ -5,10 +5,11 @@
 Answer the following questions in the provided markdown file before turning in this exercise:
 
 - What are the five parts of a function definition?
-
+  function, (), parameters, {, return statement, }
 - How do you call a function?
-
+  name the function with (); next to it
 - What is the difference between a parameter and an argument?
+  parameter is a variable and an argument is an actual value or used for calling
 
 ## Notes
 
